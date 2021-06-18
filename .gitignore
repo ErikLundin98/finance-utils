@@ -1,0 +1,8 @@
+# vs code folder
+.vscode/
+# env variables
+.env
+# the database (large!)
+finance.db
+# virtual environment
+venv/

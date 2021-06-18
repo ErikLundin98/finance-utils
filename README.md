@@ -21,4 +21,4 @@ A tool to visualize, analyze and prioritize between financial assets
     - Should call python scripts
 - Machine learning algorithms:
     - Developed with python
-    - Eventual deep learning models should be compiled with c++
+    - Eventual deep learning models should be implemented in c++
